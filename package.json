@@ -33,7 +33,7 @@
     "gif-frames": "^1.0.1",
     "gifencoder": "^2.0.1",
     "googlethis": "^1.8.0",
-    "got": "^14.0.0",
+    "got": "",
     "gradient-string": "^2.0.2",
     "gtts": "^0.2.1",
     "hercai": "^11.0.1",
